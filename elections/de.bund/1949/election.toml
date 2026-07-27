@@ -1,0 +1,26 @@
+schema = 1
+id = "de.bund.1949"
+body = "de.bund.bundestag"
+date = 1949-08-14
+term = 1
+seats_total = 402
+seats_total_incl_berlin_deputies = 410
+
+contents = ["declared.csv"]
+
+notes = [
+  "Berlin was outside the Wahlgebiet: 8 deputies were delegated by the Abgeordnetenhaus, not elected, and held limited voting rights. declared.csv carries the 402 elected seats; the source's 'Sitze einschl. Abgeordnete BE' total of 410 includes the delegates.",
+  "The source maps results onto today's Länder: Württemberg-Baden, Baden and Württemberg-Hohenzollern appear as Baden-Württemberg, which was not formed until 1952. Preserved as published.",
+  "Saarland was not yet part of the Federal Republic; it joined in 1957.",
+]
+
+[source]
+publisher = "Die Bundeswahlleiterin, Statistisches Bundesamt (Destatis)"
+title = "Wahlberechtigte, Wählende, Stimmabgabe und Sitzverteilung bei den Bundestagswahlen seit 1949 nach Ländern"
+url = "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv"
+landing_page = "https://www.bundeswahlleiterin.de/bundestagswahlen/1949.html"
+licence = "dl-de/by-2-0"
+licence_url = "https://www.govdata.de/dl-de/by-2-0"
+attribution = "© Die Bundeswahlleiterin, Statistisches Bundesamt (Destatis), 2026"
+sha256 = "9efffc24b559679ade291d8da63462e5523b43ac62064e759737c3ae01418484"
+retrieved = 2026-07-27

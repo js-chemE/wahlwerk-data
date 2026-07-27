@@ -1,0 +1,24 @@
+schema = 1
+id = "de.bund.1969"
+body = "de.bund.bundestag"
+date = 1969-09-28
+term = 6
+seats_total = 496
+seats_total_incl_berlin_deputies = 518
+
+contents = ["declared.csv"]
+
+notes = [
+  "Berlin was outside the Wahlgebiet: 22 deputies were delegated by the Abgeordnetenhaus, not elected, and held limited voting rights. declared.csv carries the 496 elected seats; the source's 'Sitze einschl. Abgeordnete BE' total of 518 includes the delegates.",
+]
+
+[source]
+publisher = "Die Bundeswahlleiterin, Statistisches Bundesamt (Destatis)"
+title = "Wahlberechtigte, Wählende, Stimmabgabe und Sitzverteilung bei den Bundestagswahlen seit 1949 nach Ländern"
+url = "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv"
+landing_page = "https://www.bundeswahlleiterin.de/bundestagswahlen/1949.html"
+licence = "dl-de/by-2-0"
+licence_url = "https://www.govdata.de/dl-de/by-2-0"
+attribution = "© Die Bundeswahlleiterin, Statistisches Bundesamt (Destatis), 2026"
+sha256 = "9efffc24b559679ade291d8da63462e5523b43ac62064e759737c3ae01418484"
+retrieved = 2026-07-27
